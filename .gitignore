@@ -1,0 +1,41 @@
+# Pastas geradas pelo Unity (são recriadas automaticamente ao abrir o projeto)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Arquivos gerados pelo Visual Studio / VS Code / Rider
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Arquivos de build
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-buildid.txt
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
